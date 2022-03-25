@@ -1,0 +1,17 @@
+asn1crypto
+attrs
+base45
+cbor2
+certifi
+certvalidator
+cffi
+charset-normalizer
+cose
+cryptography
+ecdsa
+idna
+oscrypto
+pycparser
+requests
+six
+urllib3
